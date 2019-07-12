@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+<item component="ComponentInfo{com.mxshao.illium.icons/.activities.SplashActivity}" drawable="ic_launcher"/>
 <item component="ComponentInfo{com.android.settings/.Settings}" drawable="samsung_settings"/>
 <item component="ComponentInfo{com.sec.android.app.popupcalculator/.Calculator}" drawable="samsung_calculator"/>
 <item component="ComponentInfo{com.sec.android.app.camera/.Camera}" drawable="samsung_camera"/>
