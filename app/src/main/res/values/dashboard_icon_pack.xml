@@ -4,28 +4,28 @@
     tools:ignore="MissingTranslation">
 
     <!-- YOUR ICON PACK NAME -->
-    <string name="app_name">CandyBar Sample</string>
+    <string name="app_name">Illium Icons</string>
 
-    <string name="theme_title">Your Icon Pack Name</string>
-    <string name="theme_name">Your Icon Pack Name</string>
+    <string name="theme_title">Illium Icons</string>
+    <string name="theme_name">Illium Icons</string>
 
-    <string name="theme_author">Developer</string>
-    <string name="developer_name">Developer</string>
-    <string name="developerName">Developer</string>
-    <string name="authorName">Developer</string>
+    <string name="theme_author">mxshao</string>
+    <string name="developer_name">mxshao</string>
+    <string name="developerName">mxshao</string>
+    <string name="authorName">mxshao</string>
 
-    <string name="authorLink">http://www.yourlink.com</string>
-    <string name="developer_link">http://www.yourlink.com/</string>
+    <string name="authorLink">https://www.mxshao.com</string>
+    <string name="developer_link">https://www.mxshao.com</string>
 
-    <string name="theme_description">Your Icon Pack Description</string>
-    <string name="theme_info">Your Icon Pack Description</string>
-    <string name="theme_ad_msg">Your Icon Pack Description</string>
+    <string name="theme_description"></string>
+    <string name="theme_info"></string>
+    <string name="theme_ad_msg"></string>
 
-    <string name="theme_feature">feature</string>
+    <string name="theme_feature"></string>
 
-    <string name="theme_preview1">preview1</string>
-    <string name="theme_preview2">preview2</string>
+    <string name="theme_preview1"></string>
+    <string name="theme_preview2"></string>
 
-    <string name="iconpack">com.your.package.name</string>
+    <string name="iconpack">com.mxshao.illium.icons</string>
 
 </resources>
