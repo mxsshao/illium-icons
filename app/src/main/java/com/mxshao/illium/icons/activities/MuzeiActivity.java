@@ -1,9 +1,9 @@
-package com.material.dashboard.candybar.sample.activities;
+package com.mxshao.illium.icons.activities;
 
 import android.support.annotation.NonNull;
 
 import com.dm.material.dashboard.candybar.activities.CandyBarMuzeiActivity;
-import com.material.dashboard.candybar.sample.services.MuzeiService;
+import com.mxshao.illium.icons.services.MuzeiService;
 
 public class MuzeiActivity extends CandyBarMuzeiActivity {
 

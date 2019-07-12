@@ -1,4 +1,4 @@
-package com.material.dashboard.candybar.sample.licenses;
+package com.mxshao.illium.icons.licenses;
 
 import com.dm.material.dashboard.candybar.items.InAppBilling;
 

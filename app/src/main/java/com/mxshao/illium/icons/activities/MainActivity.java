@@ -1,10 +1,10 @@
-package com.material.dashboard.candybar.sample.activities;
+package com.mxshao.illium.icons.activities;
 
 import android.support.annotation.NonNull;
 
 import com.dm.material.dashboard.candybar.activities.CandyBarMainActivity;
 import com.dm.material.dashboard.candybar.activities.configurations.ActivityConfiguration;
-import com.material.dashboard.candybar.sample.licenses.License;
+import com.mxshao.illium.icons.licenses.License;
 
 public class MainActivity extends CandyBarMainActivity {
 

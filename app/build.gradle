@@ -14,7 +14,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.material.dashboard.candybar.sample"
+        applicationId "com.mxshao.illium.icons"
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
         versionCode 1

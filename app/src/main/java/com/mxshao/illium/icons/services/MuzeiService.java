@@ -1,4 +1,4 @@
-package com.material.dashboard.candybar.sample.services;
+package com.mxshao.illium.icons.services;
 
 import com.dm.material.dashboard.candybar.services.CandyBarMuzeiService;
 
