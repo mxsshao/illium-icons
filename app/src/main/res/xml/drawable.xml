@@ -1,9 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <version>1</version>
-
-    <category title="Icons" />
-    <item drawable="email" />
-    <item drawable="keyboard" />
-
+<category title="Icons"/>
+<item drawable="samsung_calculator"/>
+<item drawable="samsung_camera"/>
+<item drawable="samsung_clock"/>
+<item drawable="samsung_contacts"/>
+<item drawable="samsung_files"/>
+<item drawable="samsung_gallery"/>
+<item drawable="samsung_led"/>
+<item drawable="samsung_messages"/>
+<item drawable="samsung_notes"/>
+<item drawable="samsung_pay"/>
+<item drawable="samsung_penup"/>
+<item drawable="samsung_phone"/>
+<item drawable="samsung_settings"/>
+<item drawable="samsung_store"/>
+<item drawable="samsung_video"/>
+<item drawable="samsung_voicerecorder"/>
 </resources>
