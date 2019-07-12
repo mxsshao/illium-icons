@@ -9,13 +9,11 @@ public class CandyBar extends CandyBarApplication {
     @NonNull
     @Override
     public Configuration onInit() {
-        //Sample configuration
         Configuration configuration = new Configuration();
 
+        configuration.setDashboardThemingEnabled(false);
         configuration.setGenerateAppFilter(true);
-        configuration.setGenerateAppMap(true);
-        configuration.setGenerateThemeResources(true);
-        
+
         return configuration;
     }
 }

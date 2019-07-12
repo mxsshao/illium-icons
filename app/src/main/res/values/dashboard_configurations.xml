@@ -7,6 +7,8 @@
     <!-- ============================== DASHBOARD CONFIGURATIONS =============================== -->
     <!-- ======================================================================================= -->
 
+    <string name="splash_screen_title">Illium Icons</string>
+
     <!-- CONFIG: DEFAULT THEME -->
 
     <!-- Use dark theme as default theme -->
@@ -98,7 +100,7 @@
     <!-- Enable or disable regular icon request
     * default: true
     * change to false to disable it -->
-    <bool name="enable_icon_request">false</bool>
+    <bool name="enable_icon_request">true</bool>
 
     <!-- Enable regular icon request limit
     * default: false
@@ -127,7 +129,7 @@
     <!-- Take a look inside License.java for premium request product -->
 
     <!-- Email that will be used to send icon request and report bugs -->
-    <string name="dev_email"></string>
+    <string name="dev_email">sa@mxshao.com</string>
 
     <!-- CONFIG: CLOUD WALLPAPERS -->
 

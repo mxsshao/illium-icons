@@ -2,28 +2,8 @@
 <resources>
     <version>1</version>
 
-    <category title="Newly Added" />
+    <category title="Icons" />
     <item drawable="email" />
-    <item drawable="camera" />
-    <item drawable="keyboard" />
-
-    <category title="Apps" />
-    <item drawable="email" />
-    <item drawable="camera" />
-    <item drawable="keyboard" />
-    <item drawable="email" />
-    <item drawable="camera" />
-    <item drawable="keyboard" />
-
-    <category title="Games" />
-    <item drawable="email" />
-    <item drawable="camera" />
-    <item drawable="keyboard" />
-    <item drawable="email" />
-    <item drawable="camera" />
-    <item drawable="keyboard" />
-    <item drawable="email" />
-    <item drawable="camera" />
     <item drawable="keyboard" />
 
 </resources>
