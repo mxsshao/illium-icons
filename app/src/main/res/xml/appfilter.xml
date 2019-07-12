@@ -1,4 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
 <item component="ComponentInfo{com.android.settings/.Settings}" drawable="samsung_settings"/>
+<item component="ComponentInfo{com.sec.android.app.popupcalculator/.Calculator}" drawable="samsung_calculator"/>
+<item component="ComponentInfo{com.sec.android.app.camera/.Camera}" drawable="samsung_camera"/>
+<item component="ComponentInfo{com.sec.android.app.clockpackage/.ClockPackage}" drawable="samsung_clock"/>
+<item component="ComponentInfo{com.samsung.android.contacts/.contactslist.PeopleActivity}" drawable="samsung_contacts"/>
+<item component="ComponentInfo{com.sec.android.app.samsungapps/.SamsungAppsMainActivity}" drawable="samsung_store"/>
+<item component="ComponentInfo{com.sec.android.gallery3d/com.samsung.android.gallery.app.activity.GalleryActivity}" drawable="samsung_gallery"/>
+<item component="ComponentInfo{com.samsung.android.app.ledcoverdream/com.samsung.android.app.ledcover.app.LCoverMainLauncher}" drawable="samsung_led"/>
+<item component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}" drawable="samsung_messages"/>
+<item component="ComponentInfo{com.sec.android.app.myfiles/.external.ui.MainActivity}" drawable="samsung_files"/>
+<item component="ComponentInfo{com.sec.penup/.ui.SplashActivity}" drawable="samsung_penup"/>
+<item component="ComponentInfo{com.samsung.android.dialer/.DialtactsActivity}" drawable="samsung_phone"/>
+<item component="ComponentInfo{com.samsung.android.app.notes/.memolist.MemoListActivity}" drawable="samsung_notes"/>
+<item component="ComponentInfo{com.samsung.android.spay/.ui.SpayMainActivity}" drawable="samsung_pay"/>
+<item component="ComponentInfo{com.sec.android.app.voicenote/.main.VNMainActivity}" drawable="samsung_voicerecorder"/>
+<item component="ComponentInfo{com.samsung.android.videolist/.list.activity.VideoList}" drawable="samsung_video"/>
 </resources>

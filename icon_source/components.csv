@@ -1,1 +1,16 @@
 com.android.settings/.Settings,samsung_settings
+com.sec.android.app.popupcalculator/.Calculator,samsung_calculator
+com.sec.android.app.camera/.Camera,samsung_camera
+com.sec.android.app.clockpackage/.ClockPackage,samsung_clock
+com.samsung.android.contacts/.contactslist.PeopleActivity,samsung_contacts
+com.sec.android.app.samsungapps/.SamsungAppsMainActivity,samsung_store
+com.sec.android.gallery3d/com.samsung.android.gallery.app.activity.GalleryActivity,samsung_gallery
+com.samsung.android.app.ledcoverdream/com.samsung.android.app.ledcover.app.LCoverMainLauncher,samsung_led
+com.samsung.android.messaging/com.android.mms.ui.ConversationComposer,samsung_messages
+com.sec.android.app.myfiles/.external.ui.MainActivity,samsung_files
+com.sec.penup/.ui.SplashActivity,samsung_penup
+com.samsung.android.dialer/.DialtactsActivity,samsung_phone
+com.samsung.android.app.notes/.memolist.MemoListActivity,samsung_notes
+com.samsung.android.spay/.ui.SpayMainActivity,samsung_pay
+com.sec.android.app.voicenote/.main.VNMainActivity,samsung_voicerecorder
+com.samsung.android.videolist/.list.activity.VideoList,samsung_video
