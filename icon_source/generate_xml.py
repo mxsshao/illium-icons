@@ -4,6 +4,7 @@ import csv
 appfilter = open("../app/src/main/res/xml/appfilter.xml", "w")
 appfilter.write("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n")
 appfilter.write("<resources>\n")
+appfilter.write("<calendar component=\"ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}\" prefix=\"google_calendar_\" />")
 with open("components.csv", newline="") as csvfile:
 	reader = csv.reader(csvfile, delimiter=",", quotechar="\"")
 	for row in reader:
