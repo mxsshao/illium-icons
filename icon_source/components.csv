@@ -65,12 +65,12 @@ com.lastpass.lpandroid/com.lastpass.lpandroid.activity.WebBrowserActivity,app_la
 com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity,app_linkedin
 myer.com.android/myer.com.android.ui.activity.LaunchActivity,app_myer
 com.google.android.apps.maps/com.google.android.maps.MapsActivity,google_maps
-au.gov.dhs.expressplus.medicare/au.gov.dhs.framework.SplashScreenActivity,app_medicare
+au.gov.dhs.expressplus.medicare/au.gov.dhs.medicare.activities.LauncherActivity,app_medicare
 com.brokenreality.planemerger.android/com.shenle0964.gameservice.service.tbc.CustomActivity,game_mergeplane
 com.facebook.orca/com.facebook.orca.auth.StartScreenActivity,app_messenger
 nz.co.codepoint.minimetro/com.dinopoloclub.minimetro.nbo.LicensedActivity,game_minimetro
 com.melesta.coffeeshop/com.melesta.obb.PermissionActivity,game_mycafe
-com.shift8sumosalad.mysumo/com.shift8.sumo.activities.SplashActivity,app_sumosalad
+com.shift8sumosalad.mysumo/com.mobi2gostorefrontrn.MainActivity,app_sumosalad
 jp.co.hit_point.nekoatsume/jp.co.hit_point.nekoatsume.GActivity,game_nekoatsume
 com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity,app_netflix
 com.noodlecake.altosodyssey/com.unity3d.player.UnityPlayerActivity,game_altoodyssey
@@ -125,3 +125,5 @@ com.mcdonalds.au.gma/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity,app
 com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity,samsung_calendar
 com.sec.android.daemonapp/com.samsung.android.weather.app.AppLauncherActivity,samsung_weather
 com.qantas.fs/com.qantas.fs.activities.SplashActivity,app_qantasmoney
+au.com.ingdirect.android/au.com.ingdirect.android.ui.WelcomeActivity,app_ing
+pl.solidexplorer2/pl.solidexplorer.SolidExplorer,app_solidexplorer

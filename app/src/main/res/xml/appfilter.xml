@@ -67,12 +67,12 @@
 <item component="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity}" drawable="app_linkedin"/>
 <item component="ComponentInfo{myer.com.android/myer.com.android.ui.activity.LaunchActivity}" drawable="app_myer"/>
 <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" drawable="google_maps"/>
-<item component="ComponentInfo{au.gov.dhs.expressplus.medicare/au.gov.dhs.framework.SplashScreenActivity}" drawable="app_medicare"/>
+<item component="ComponentInfo{au.gov.dhs.expressplus.medicare/au.gov.dhs.medicare.activities.LauncherActivity}" drawable="app_medicare"/>
 <item component="ComponentInfo{com.brokenreality.planemerger.android/com.shenle0964.gameservice.service.tbc.CustomActivity}" drawable="game_mergeplane"/>
 <item component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}" drawable="app_messenger"/>
 <item component="ComponentInfo{nz.co.codepoint.minimetro/com.dinopoloclub.minimetro.nbo.LicensedActivity}" drawable="game_minimetro"/>
 <item component="ComponentInfo{com.melesta.coffeeshop/com.melesta.obb.PermissionActivity}" drawable="game_mycafe"/>
-<item component="ComponentInfo{com.shift8sumosalad.mysumo/com.shift8.sumo.activities.SplashActivity}" drawable="app_sumosalad"/>
+<item component="ComponentInfo{com.shift8sumosalad.mysumo/com.mobi2gostorefrontrn.MainActivity}" drawable="app_sumosalad"/>
 <item component="ComponentInfo{jp.co.hit_point.nekoatsume/jp.co.hit_point.nekoatsume.GActivity}" drawable="game_nekoatsume"/>
 <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity}" drawable="app_netflix"/>
 <item component="ComponentInfo{com.noodlecake.altosodyssey/com.unity3d.player.UnityPlayerActivity}" drawable="game_altoodyssey"/>
@@ -127,4 +127,6 @@
 <item component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}" drawable="samsung_calendar"/>
 <item component="ComponentInfo{com.sec.android.daemonapp/com.samsung.android.weather.app.AppLauncherActivity}" drawable="samsung_weather"/>
 <item component="ComponentInfo{com.qantas.fs/com.qantas.fs.activities.SplashActivity}" drawable="app_qantasmoney"/>
+<item component="ComponentInfo{au.com.ingdirect.android/au.com.ingdirect.android.ui.WelcomeActivity}" drawable="app_ing"/>
+<item component="ComponentInfo{pl.solidexplorer2/pl.solidexplorer.SolidExplorer}" drawable="app_solidexplorer"/>
 </resources>

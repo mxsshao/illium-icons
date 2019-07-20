@@ -20,6 +20,7 @@
 <item drawable="app_facebooklite"/>
 <item drawable="app_fitbit"/>
 <item drawable="app_flybuys"/>
+<item drawable="app_ing"/>
 <item drawable="app_kfc"/>
 <item drawable="app_lastpass"/>
 <item drawable="app_linkedin"/>
@@ -44,6 +45,7 @@
 <item drawable="app_skype"/>
 <item drawable="app_snapchat"/>
 <item drawable="app_snapseed"/>
+<item drawable="app_solidexplorer"/>
 <item drawable="app_splitwise"/>
 <item drawable="app_sumosalad"/>
 <item drawable="app_tpg"/>
