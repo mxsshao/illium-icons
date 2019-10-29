@@ -23,9 +23,9 @@
 <item component="ComponentInfo{com.microsoft.office.officelens/com.microsoft.office.officelens.MainActivity}" drawable="microsoft_officelens"/>
 <item component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}" drawable="microsoft_onedrive"/>
 <item component="ComponentInfo{com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity}" drawable="microsoft_onenote"/>
-<item component="ComponentInfo{au.com.opal.travel/au.com.opal.travel.application.presentation.ui.activities.OnboardingActivity}" drawable="app_opal"/>
+<item component="ComponentInfo{au.com.opal.travel/au.com.opal.travel.application.presentation.MainActivity}" drawable="app_opal"/>
 <item component="ComponentInfo{com.glu.gordondashx/com.google.android.vending.expansion.downloader_impl.DownloaderActivity}" drawable="game_ramsaydash"/>
-<item component="ComponentInfo{au.gov.nsw.service/au.gov.nsw.service.activities.MainSplashActivity}" drawable="app_servicensw"/>
+<item component="ComponentInfo{au.gov.nsw.service/au.gov.nsw.service.MainActivity}" drawable="app_servicensw"/>
 <item component="ComponentInfo{com.skype.raider/com.skype.raider.Main}" drawable="app_skype"/>
 <item component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity}" drawable="app_snapseed"/>
 <item component="ComponentInfo{com.Splitwise.SplitwiseMobile/com.Splitwise.SplitwiseMobile.views.SplitwiseSplashScreen_}" drawable="app_splitwise"/>
@@ -36,4 +36,5 @@
 <item component="ComponentInfo{com.mcdonalds.au.gma/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity}" drawable="app_mymaccas"/>
 <item component="ComponentInfo{au.com.ingdirect.android/au.com.ingdirect.android.ui.WelcomeActivity}" drawable="app_ing"/>
 <item component="ComponentInfo{com.tapblaze.pizzabusiness/com.tapblaze.pizzabusiness.AppActivity}" drawable="com_tapblaze_pizzabusiness"/>
+<item component="ComponentInfo{au.com.mcdonalds.monopoly/com.mcdonalds.monopoly.MainActivity}" drawable="au_com_mcdonalds_monopoly"/>
 </resources>

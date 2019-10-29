@@ -21,9 +21,9 @@ com.facebook.orca/com.facebook.orca.auth.StartScreenActivity,app_messenger
 com.microsoft.office.officelens/com.microsoft.office.officelens.MainActivity,microsoft_officelens
 com.microsoft.skydrive/com.microsoft.skydrive.MainActivity,microsoft_onedrive
 com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity,microsoft_onenote
-au.com.opal.travel/au.com.opal.travel.application.presentation.ui.activities.OnboardingActivity,app_opal
+au.com.opal.travel/au.com.opal.travel.application.presentation.MainActivity,app_opal
 com.glu.gordondashx/com.google.android.vending.expansion.downloader_impl.DownloaderActivity,game_ramsaydash
-au.gov.nsw.service/au.gov.nsw.service.activities.MainSplashActivity,app_servicensw
+au.gov.nsw.service/au.gov.nsw.service.MainActivity,app_servicensw
 com.skype.raider/com.skype.raider.Main,app_skype
 com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity,app_snapseed
 com.Splitwise.SplitwiseMobile/com.Splitwise.SplitwiseMobile.views.SplitwiseSplashScreen_,app_splitwise
@@ -34,3 +34,4 @@ org.westpac.bank/com.westpac.banking.android.wbc.activity.LoginActivity,app_west
 com.mcdonalds.au.gma/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity,app_mymaccas
 au.com.ingdirect.android/au.com.ingdirect.android.ui.WelcomeActivity,app_ing
 com.tapblaze.pizzabusiness/com.tapblaze.pizzabusiness.AppActivity,com_tapblaze_pizzabusiness
+au.com.mcdonalds.monopoly/com.mcdonalds.monopoly.MainActivity,au_com_mcdonalds_monopoly
